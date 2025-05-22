@@ -1,0 +1,1 @@
+{ "agents": ["etsy_ingestor", "repurposer", "multiplatform_poster"], "target": "etsy" }

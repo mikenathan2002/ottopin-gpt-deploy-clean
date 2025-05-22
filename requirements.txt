@@ -1,0 +1,8 @@
+openai
+streamlit
+requests
+python-dotenv
+pandas
+fastapi
+uvicorn
+jinja2
